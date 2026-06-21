@@ -152,7 +152,7 @@ git push -u origin main
 
 ## 👨‍💻 Autor
 
-Proyecto desarrollado para la **Actividad Formativa N°2 — Opción 6 (Tema Libre)**
+Morales, Nahiara Lujan 
 
 ## 📝 Licencia
 
