@@ -8,6 +8,7 @@
       "stock": 12,
       "material": "Seda italiana, encaje francés",
       "descripcion": "Elegante vestido de noche con detalles en encaje y caída sofisticada. Perfecto para ocasiones especiales.",
+      "imagen": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400&h=500&fit=crop",
       "calificacion": 5,
       "resenas": [
         {
@@ -30,6 +31,7 @@
       "stock": 8,
       "material": "Fieltro de lana, cinta de satén",
       "descripcion": "Sombrero clásico adornado con cinta de satén y pluma decorativa. Estilo vintage auténtico.",
+      "imagen": "https://images.unsplash.com/photo-1572442329718-1c0c1508647d?w=400&h=500&fit=crop",
       "calificacion": 4,
       "resenas": [
         {
@@ -47,6 +49,7 @@
       "stock": 5,
       "material": "Lana merino, forro de seda",
       "descripcion": "Abrigo largo en tono borgoña profundo con corte imperial y botones dorados.",
+      "imagen": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=400&h=500&fit=crop",
       "calificacion": 5,
       "resenas": [
         {
@@ -69,6 +72,7 @@
       "stock": 15,
       "material": "Perlas cultivadas, oro 18k",
       "descripcion": "Collar de perlas con broche dorado ornamentado. Un clásico atemporal.",
+      "imagen": "https://images.unsplash.com/photo-1599643478518-17488fbbcd75?w=400&h=500&fit=crop",
       "calificacion": 5,
       "resenas": [
         {
@@ -86,6 +90,7 @@
       "stock": 20,
       "material": "Terciopelo, seda interior",
       "descripcion": "Guantes largos de terciopelo negro con interior de seda. Elegancia pura.",
+      "imagen": "https://images.unsplash.com/photo-1588854337221-4cf9fa96059c?w=400&h=500&fit=crop",
       "calificacion": 4,
       "resenas": [
         {
@@ -103,6 +108,7 @@
       "stock": 25,
       "material": "Papel acid-free, encuadernación en cuero",
       "descripcion": "Edición especial de los poemas de Baudelaire con ilustraciones originales.",
+      "imagen": "https://images.unsplash.com/photo-1544947950-fa09a532834d?w=400&h=500&fit=crop",
       "calificacion": 5,
       "resenas": [
         {
@@ -125,6 +131,7 @@
       "stock": 10,
       "material": "Papel de archivo, mapas restaurados",
       "descripcion": "Colección de mapas históricos de París desde el siglo XVIII hasta hoy.",
+      "imagen": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=500&fit=crop",
       "calificacion": 5,
       "resenas": [
         {
@@ -142,6 +149,7 @@
       "stock": 30,
       "material": "Papel reciclado, tinta vegetal",
       "descripcion": "Novela gráfica sobre las aventuras de un gato en las calles de París.",
+      "imagen": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=500&fit=crop",
       "calificacion": 4,
       "resenas": [
         {
@@ -164,6 +172,7 @@
       "stock": 12,
       "material": "Acero inoxidable, oro 24k",
       "descripcion": "Set de pluma estilográfica dorada con tintero y papel decorado.",
+      "imagen": "https://images.unsplash.com/photo-1585336261022-680e295ce3fe?w=400&h=500&fit=crop",
       "calificacion": 5,
       "resenas": [
         {
@@ -181,6 +190,7 @@
       "stock": 18,
       "material": "Papel ilustrado, tapa dura",
       "descripcion": "Colección de cuentos de hadas franceses con ilustraciones art nouveau.",
+      "imagen": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=400&h=500&fit=crop",
       "calificacion": 4,
       "resenas": [
         {
@@ -198,6 +208,7 @@
       "stock": 8,
       "material": "Vinilo 180g, funda gatefold",
       "descripcion": "Grabación remasterizada de nocturnos clásicos para piano. Edición limitada.",
+      "imagen": "https://images.unsplash.com/photo-1603048588665-791ca8aea6c6?w=400&h=500&fit=crop",
       "calificacion": 5,
       "resenas": [
         {
@@ -220,6 +231,7 @@
       "stock": 15,
       "material": "Papel de música, encuadernación espiral",
       "descripcion": "Partitura original de la famosa vals felina para piano solo.",
+      "imagen": "https://images.unsplash.com/photo-1514119471812-31e77f92f099?w=400&h=500&fit=crop",
       "calificacion": 4,
       "resenas": [
         {
@@ -237,6 +249,7 @@
       "stock": 10,
       "material": "Madera de nogal, latón pulido",
       "descripcion": "Metronomo mecánico con diseño art déco. Precisión y elegancia.",
+      "imagen": "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=400&h=500&fit=crop",
       "calificacion": 5,
       "resenas": [
         {
@@ -259,6 +272,7 @@
       "stock": 20,
       "material": "Acero templado, oro 24k",
       "descripcion": "Diapasón profesional bañado en oro. Afinación perfecta LA 440Hz.",
+      "imagen": "https://images.unsplash.com/photo-1511379630895-b52757184485?w=400&h=500&fit=crop",
       "calificacion": 4,
       "resenas": [
         {
@@ -276,6 +290,7 @@
       "stock": 6,
       "material": "Madera tallada, mecanismo suizo",
       "descripcion": "Caja de música artesanal con melodía 'La Vie en Rose'. Grabado floral.",
+      "imagen": "https://images.unsplash.com/photo-1516280440614-6697288d5d84?w=400&h=500&fit=crop",
       "calificacion": 5,
       "resenas": [
         {
@@ -293,6 +308,7 @@
       "stock": 40,
       "material": "Granos de Arábica tostados",
       "descripcion": "Mezcla exclusiva de granos seleccionados. Tueste medio, notas de chocolate.",
+      "imagen": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=400&h=500&fit=crop",
       "calificacion": 5,
       "resenas": [
         {
@@ -315,6 +331,7 @@
       "stock": 35,
       "material": "Té negro, pétalos de rosa, vainilla",
       "descripcion": "Mezcla romántica de té negro con pétalos de rosa y esencia de vainilla.",
+      "imagen": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=400&h=500&fit=crop",
       "calificacion": 4,
       "resenas": [
         {
@@ -332,6 +349,7 @@
       "stock": 25,
       "material": "Almendra, azúcar, sabores naturales",
       "descripcion": "Caja de 12 macarons surtidos: pistacho, frambuesa, caramelo salado, rosa.",
+      "imagen": "https://images.unsplash.com/photo-1569864358642-9d1684045f03?w=400&h=500&fit=crop",
       "calificacion": 5,
       "resenas": [
         {
@@ -354,6 +372,7 @@
       "stock": 30,
       "material": "Manzanilla, lavanda, azahar",
       "descripcion": "Infusión relajante para las noches tranquilas. Sin teína.",
+      "imagen": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=400&h=500&fit=crop",
       "calificacion": 4,
       "resenas": [
         {
@@ -371,6 +390,7 @@
       "stock": 15,
       "material": "Porcelana, oro 24k",
       "descripcion": "Taza de café artesanal con bordes dorados. Diseño floral vintage.",
+      "imagen": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=400&h=500&fit=crop",
       "calificacion": 5,
       "resenas": [
         {
