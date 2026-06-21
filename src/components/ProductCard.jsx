@@ -11,7 +11,16 @@ export default function ProductCard({ product, emoji, onAddToCart }) {
     <div className="product-card">
       <div className="product-frame">
         <div className="product-image-container">
-          <span className="product-emoji">{emoji}</span>
+          {product.imagen ? (
+            <img 
+              src={product.imagen} 
+              alt={product.nombre}
+              className="product-img"
+              loading="lazy"
+            />
+          ) : (
+            <span className="product-emoji">{emoji}</span>
+          )}
         </div>
       </div>
 
