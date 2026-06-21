@@ -1,0 +1,384 @@
+{
+  "productos": [
+    {
+      "id": 10001,
+      "nombre": "Vestido Gala Nocturne",
+      "categoria": "Moda Clásica",
+      "precio": 285.99,
+      "stock": 12,
+      "material": "Seda italiana, encaje francés",
+      "descripcion": "Elegante vestido de noche con detalles en encaje y caída sofisticada. Perfecto para ocasiones especiales.",
+      "calificacion": 5,
+      "resenas": [
+        {
+          "usuario": "Sofía Martínez",
+          "foto": "https://ui-avatars.com/api/?name=Sofia+Martinez&background=4a1a2d&color=f5f0e6",
+          "comentario": "Una pieza absolutamente exquisita. La calidad de la seda es incomparable."
+        },
+        {
+          "usuario": "Carlos Ríos",
+          "foto": "https://ui-avatars.com/api/?name=Carlos+Rios&background=1a3d3a&color=f5f0e6",
+          "comentario": "Me siento como un verdadero parisino usando este vestido. ¡Magnífico!"
+        }
+      ]
+    },
+    {
+      "id": 10002,
+      "nombre": "Sombrero Belle Époque",
+      "categoria": "Moda Clásica",
+      "precio": 125.50,
+      "stock": 8,
+      "material": "Fieltro de lana, cinta de satén",
+      "descripcion": "Sombrero clásico adornado con cinta de satén y pluma decorativa. Estilo vintage auténtico.",
+      "calificacion": 4,
+      "resenas": [
+        {
+          "usuario": "Marie Dubois",
+          "foto": "https://ui-avatars.com/api/?name=Marie+Dubois&background=c9a959&color=1a1a2e",
+          "comentario": "Très élégant! Me recuerda a las damas de Montmartre."
+        }
+      ]
+    },
+    {
+      "id": 10003,
+      "nombre": "Abrigo Royal Burgundy",
+      "categoria": "Moda Clásica",
+      "precio": 450.00,
+      "stock": 5,
+      "material": "Lana merino, forro de seda",
+      "descripcion": "Abrigo largo en tono borgoña profundo con corte imperial y botones dorados.",
+      "calificacion": 5,
+      "resenas": [
+        {
+          "usuario": "Isabella Fontaine",
+          "foto": "https://ui-avatars.com/api/?name=Isabella+Fontaine&background=4a1a2d&color=f5f0e6",
+          "comentario": "Una obra de arte para el invierno. Calidez y elegancia en cada detalle."
+        },
+        {
+          "usuario": "Antoine Laurent",
+          "foto": "https://ui-avatars.com/api/?name=Antoine+Laurent&background=1a3d3a&color=f5f0e6",
+          "comentario": "La calidad es excepcional. Vale cada euro."
+        }
+      ]
+    },
+    {
+      "id": 10004,
+      "nombre": "Collar Perles de Paris",
+      "categoria": "Moda Clásica",
+      "precio": 189.99,
+      "stock": 15,
+      "material": "Perlas cultivadas, oro 18k",
+      "descripcion": "Collar de perlas con broche dorado ornamentado. Un clásico atemporal.",
+      "calificacion": 5,
+      "resenas": [
+        {
+          "usuario": "Camille Bernard",
+          "foto": "https://ui-avatars.com/api/?name=Camille+Bernard&background=c9a959&color=1a1a2e",
+          "comentario": "Simplemente magnifique. Lo uso para todas mis veladas especiales."
+        }
+      ]
+    },
+    {
+      "id": 10005,
+      "nombre": "Guantes Velours Noir",
+      "categoria": "Moda Clásica",
+      "precio": 65.00,
+      "stock": 20,
+      "material": "Terciopelo, seda interior",
+      "descripcion": "Guantes largos de terciopelo negro con interior de seda. Elegancia pura.",
+      "calificacion": 4,
+      "resenas": [
+        {
+          "usuario": "Élise Moreau",
+          "foto": "https://ui-avatars.com/api/?name=Elise+Moreau&background=4a1a2d&color=f5f0e6",
+          "comentario": "Tan suaves y elegantes. Perfectos para la ópera."
+        }
+      ]
+    },
+    {
+      "id": 20001,
+      "nombre": "Les Fleurs du Mal - Edición Colección",
+      "categoria": "Biblioteca",
+      "precio": 85.00,
+      "stock": 25,
+      "material": "Papel acid-free, encuadernación en cuero",
+      "descripcion": "Edición especial de los poemas de Baudelaire con ilustraciones originales.",
+      "calificacion": 5,
+      "resenas": [
+        {
+          "usuario": "Henri Rousseau",
+          "foto": "https://ui-avatars.com/api/?name=Henri+Rousseau&background=1a3d3a&color=f5f0e6",
+          "comentario": "Una joya literaria. La encuadernación es una obra de arte en sí misma."
+        },
+        {
+          "usuario": "Valérie Blanc",
+          "foto": "https://ui-avatars.com/api/?name=Valerie+Blanc&background=c9a959&color=1a1a2e",
+          "comentario": "Imprescindible para cualquier amante de la poesía francesa."
+        }
+      ]
+    },
+    {
+      "id": 20002,
+      "nombre": "Atlas des Anciens Paris",
+      "categoria": "Biblioteca",
+      "precio": 120.00,
+      "stock": 10,
+      "material": "Papel de archivo, mapas restaurados",
+      "descripcion": "Colección de mapas históricos de París desde el siglo XVIII hasta hoy.",
+      "calificacion": 5,
+      "resenas": [
+        {
+          "usuario": "Pierre Dupont",
+          "foto": "https://ui-avatars.com/api/?name=Pierre+Dupont&background=4a1a2d&color=f5f0e6",
+          "comentario": "Un viaje en el tiempo. Cada mapa cuenta una historia fascinante."
+        }
+      ]
+    },
+    {
+      "id": 20003,
+      "nombre": "Journal d'un Chat errant",
+      "categoria": "Biblioteca",
+      "precio": 45.00,
+      "stock": 30,
+      "material": "Papel reciclado, tinta vegetal",
+      "descripcion": "Novela gráfica sobre las aventuras de un gato en las calles de París.",
+      "calificacion": 4,
+      "resenas": [
+        {
+          "usuario": "Amélie Petit",
+          "foto": "https://ui-avatars.com/api/?name=Amelie+Petit&background=1a3d3a&color=f5f0e6",
+          "comentario": "Encantadora historia. Las ilustraciones son preciosas."
+        },
+        {
+          "usuario": "Lucas Martin",
+          "foto": "https://ui-avatars.com/api/?name=Lucas+Martin&background=c9a959&color=1a1a2e",
+          "comentario": "Perfecto regalo para amantes de los gatos y del arte."
+        }
+      ]
+    },
+    {
+      "id": 20004,
+      "nombre": "Plume d'Or - Set de Escritura",
+      "categoria": "Biblioteca",
+      "precio": 155.00,
+      "stock": 12,
+      "material": "Acero inoxidable, oro 24k",
+      "descripcion": "Set de pluma estilográfica dorada con tintero y papel decorado.",
+      "calificacion": 5,
+      "resenas": [
+        {
+          "usuario": "Gabrielle Simon",
+          "foto": "https://ui-avatars.com/api/?name=Gabrielle+Simon&background=4a1a2d&color=f5f0e6",
+          "comentario": "Escribir con esta pluma es un placer absoluto. Calidad excepcional."
+        }
+      ]
+    },
+    {
+      "id": 20005,
+      "nombre": "Contes de Fées Parisiens",
+      "categoria": "Biblioteca",
+      "precio": 68.00,
+      "stock": 18,
+      "material": "Papel ilustrado, tapa dura",
+      "descripcion": "Colección de cuentos de hadas franceses con ilustraciones art nouveau.",
+      "calificacion": 4,
+      "resenas": [
+        {
+          "usuario": "Chloé Laurent",
+          "foto": "https://ui-avatars.com/api/?name=Chloe+Laurent&background=1a3d3a&color=f5f0e6",
+          "comentario": "Las ilustraciones son espectaculares. Un libro para atesorar."
+        }
+      ]
+    },
+    {
+      "id": 30001,
+      "nombre": "Vinyl Nocturne en Sol Mineur",
+      "categoria": "Música",
+      "precio": 95.00,
+      "stock": 8,
+      "material": "Vinilo 180g, funda gatefold",
+      "descripcion": "Grabación remasterizada de nocturnos clásicos para piano. Edición limitada.",
+      "calificacion": 5,
+      "resenas": [
+        {
+          "usuario": "Maestro François",
+          "foto": "https://ui-avatars.com/api/?name=Francois&background=c9a959&color=1a1a2e",
+          "comentario": "La calidad del sonido es excepcional. Como estar en el Conservatoire."
+        },
+        {
+          "usuario": "Diana Beaumont",
+          "foto": "https://ui-avatars.com/api/?name=Diana+Beaumont&background=4a1a2d&color=f5f0e6",
+          "comentario": "Cada nota resuena con claridad cristalina. Magnifique!"
+        }
+      ]
+    },
+    {
+      "id": 30002,
+      "nombre": "Partition - Valse des Chats",
+      "categoria": "Música",
+      "precio": 42.00,
+      "stock": 15,
+      "material": "Papel de música, encuadernación espiral",
+      "descripcion": "Partitura original de la famosa vals felina para piano solo.",
+      "calificacion": 4,
+      "resenas": [
+        {
+          "usuario": "Clara Schumann",
+          "foto": "https://ui-avatars.com/api/?name=Clara+Schumann&background=1a3d3a&color=f5f0e6",
+          "comentario": "Una composición deliciosa. Perfecta para pianistas intermedios."
+        }
+      ]
+    },
+    {
+      "id": 30003,
+      "nombre": "Métronome Art Déco",
+      "categoria": "Música",
+      "precio": 78.00,
+      "stock": 10,
+      "material": "Madera de nogal, latón pulido",
+      "descripcion": "Metronomo mecánico con diseño art déco. Precisión y elegancia.",
+      "calificacion": 5,
+      "resenas": [
+        {
+          "usuario": "Victor Hugo",
+          "foto": "https://ui-avatars.com/api/?name=Victor+Hugo&background=c9a959&color=1a1a2e",
+          "comentario": "Una pieza de museo que funciona perfectamente. Trés beau!"
+        },
+        {
+          "usuario": "Isabelle Dumas",
+          "foto": "https://ui-avatars.com/api/?name=Isabelle+Dumas&background=4a1a2d&color=f5f0e6",
+          "comentario": "Adorna mi estudio y me acompaña en cada práctica."
+        }
+      ]
+    },
+    {
+      "id": 30004,
+      "nombre": "Diapason Doré",
+      "categoria": "Música",
+      "precio": 55.00,
+      "stock": 20,
+      "material": "Acero templado, oro 24k",
+      "descripcion": "Diapasón profesional bañado en oro. Afinación perfecta LA 440Hz.",
+      "calificacion": 4,
+      "resenas": [
+        {
+          "usuario": "René Charpentier",
+          "foto": "https://ui-avatars.com/api/?name=Rene+Charpentier&background=1a3d3a&color=f5f0e6",
+          "comentario": "Sonido puro y duradero. Un clásico para músicos exigentes."
+        }
+      ]
+    },
+    {
+      "id": 30005,
+      "nombre": "Écrin à Musique - Boîte à Mélodie",
+      "categoria": "Música",
+      "precio": 135.00,
+      "stock": 6,
+      "material": "Madera tallada, mecanismo suizo",
+      "descripcion": "Caja de música artesanal con melodía 'La Vie en Rose'. Grabado floral.",
+      "calificacion": 5,
+      "resenas": [
+        {
+          "usuario": "Odette Villeneuve",
+          "foto": "https://ui-avatars.com/api/?name=Odette+Villeneuve&background=c9a959&color=1a1a2e",
+          "comentario": "Un tesoro. La melodía es tan pura que me hace llorar de emoción."
+        }
+      ]
+    },
+    {
+      "id": 40001,
+      "nombre": "Café Montmartre - Grain Entier",
+      "categoria": "Cafetería",
+      "precio": 32.00,
+      "stock": 40,
+      "material": "Granos de Arábica tostados",
+      "descripcion": "Mezcla exclusiva de granos seleccionados. Tueste medio, notas de chocolate.",
+      "calificacion": 5,
+      "resenas": [
+        {
+          "usuario": "Jacques Brel",
+          "foto": "https://ui-avatars.com/api/?name=Jacques+Brel&background=4a1a2d&color=f5f0e6",
+          "comentario": "El aroma me transporta a las mañanas en Place du Tertre. Parfait!"
+        },
+        {
+          "usuario": "Nina Simone",
+          "foto": "https://ui-avatars.com/api/?name=Nina+Simone&background=1a3d3a&color=f5f0e6",
+          "comentario": "El mejor café que he probado fuera de París. Intenso y aromático."
+        }
+      ]
+    },
+    {
+      "id": 40002,
+      "nombre": "Thé des Amoureux",
+      "categoria": "Cafetería",
+      "precio": 28.00,
+      "stock": 35,
+      "material": "Té negro, pétalos de rosa, vainilla",
+      "descripcion": "Mezcla romántica de té negro con pétalos de rosa y esencia de vainilla.",
+      "calificacion": 4,
+      "resenas": [
+        {
+          "usuario": "Colette",
+          "foto": "https://ui-avatars.com/api/?name=Colette&background=c9a959&color=1a1a2e",
+          "comentario": "Delicadamente perfumado. Perfecto para las tardes de lectura."
+        }
+      ]
+    },
+    {
+      "id": 40003,
+      "nombre": "Macarons de la Galerie - Coffret",
+      "categoria": "Cafetería",
+      "precio": 45.00,
+      "stock": 25,
+      "material": "Almendra, azúcar, sabores naturales",
+      "descripcion": "Caja de 12 macarons surtidos: pistacho, frambuesa, caramelo salado, rosa.",
+      "calificacion": 5,
+      "resenas": [
+        {
+          "usuario": "Pâtissier Pierre",
+          "foto": "https://ui-avatars.com/api/?name=Pierre+Hermé&background=4a1a2d&color=f5f0e6",
+          "comentario": "Digne des plus grandes pâtisseries parisiennes. Un délice!"
+        },
+        {
+          "usuario": "Margot Renoir",
+          "foto": "https://ui-avatars.com/api/?name=Margot+Renoir&background=1a3d3a&color=f5f0e6",
+          "comentario": "Cada bocado es una experiencia. El de rosa es exquisito."
+        }
+      ]
+    },
+    {
+      "id": 40004,
+      "nombre": "Infusion Nuit Étoilée",
+      "categoria": "Cafetería",
+      "precio": 24.00,
+      "stock": 30,
+      "material": "Manzanilla, lavanda, azahar",
+      "descripcion": "Infusión relajante para las noches tranquilas. Sin teína.",
+      "calificacion": 4,
+      "resenas": [
+        {
+          "usuario": "Émilie du Châtelet",
+          "foto": "https://ui-avatars.com/api/?name=Emilie+du+Chatelet&background=c9a959&color=1a1a2e",
+          "comentario": "Me ayuda a descansar después de largas noches de estudio. Apaisant."
+        }
+      ]
+    },
+    {
+      "id": 40005,
+      "nombre": "Tasse à Café - Porcelaine de Limoges",
+      "categoria": "Cafetería",
+      "precio": 58.00,
+      "stock": 15,
+      "material": "Porcelana, oro 24k",
+      "descripcion": "Taza de café artesanal con bordes dorados. Diseño floral vintage.",
+      "calificacion": 5,
+      "resenas": [
+        {
+          "usuario": "Céline Dion",
+          "foto": "https://ui-avatars.com/api/?name=Celine+Dion&background=4a1a2d&color=f5f0e6",
+          "comentario": "Una obra de arte para disfrutar mi café matinal. Très chic!"
+        }
+      ]
+    }
+  ]
+}

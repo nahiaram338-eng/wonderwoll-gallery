@@ -1,0 +1,13 @@
+/* Gallery.css - estilos adicionales */
+.product-material {
+  color: var(--color-cream-dark);
+  font-size: 0.85rem;
+  margin-bottom: var(--spacing-xs);
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  .products-grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,14 @@
+/* Hero.css - estilos adicionales */
+.title-line {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 2.5rem;
+  }
+  
+  .hero-title .highlight {
+    font-size: 3rem;
+  }
+}

@@ -1,0 +1,34 @@
+/* Toast.css */
+.toast {
+  position: fixed;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%) translateY(100px);
+  background: linear-gradient(135deg, var(--color-emerald) 0%, var(--color-emerald-dark) 100%);
+  border: 2px solid var(--color-gold);
+  border-radius: 8px;
+  padding: var(--spacing-sm) var(--spacing-lg);
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  z-index: 6000;
+  opacity: 0;
+  transition: var(--transition-elegant);
+  pointer-events: none;
+}
+
+.toast.show {
+  transform: translateX(-50%) translateY(0);
+  opacity: 1;
+}
+
+.toast-icon {
+  color: var(--color-gold);
+  font-size: 1.3rem;
+}
+
+.toast-message {
+  color: var(--color-cream);
+  font-size: 1rem;
+}
