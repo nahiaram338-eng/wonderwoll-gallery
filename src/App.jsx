@@ -18,7 +18,7 @@ function App() {
 
   // Cargar productos desde JSON
   useEffect(() => {
-    fetch('./productos.json')
+    fetch('./productos.jsons')
       .then(res => res.json())
       .then(data => setProducts(data.productos || []))
       .catch(err => console.error('Error cargando productos:', err))
