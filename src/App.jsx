@@ -56,7 +56,7 @@ function App() {
       }
       return [...prevCart, { ...product, quantity: 1 }]
     })
-    showToast(`${product.nombre} agregado al panier`)
+    showToast(`${product.nombre} agregado al carrito`)
   }
 
   // Actualizar cantidad
@@ -75,7 +75,7 @@ function App() {
   // Remover del carrito
   const removeFromCart = (productId) => {
     setCart(prevCart => prevCart.filter(item => item.id !== productId))
-    showToast('Producto retirado du panier')
+    showToast('Producto retirado del carrito')
   }
 
   // Calcular total
